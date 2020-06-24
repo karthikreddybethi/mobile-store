@@ -1,0 +1,36 @@
+$iconColor: #f18822;
+$backgroundClolor: #f3f5f6;
+
+.features-banner {
+  background-color: $backgroundClolor;
+  margin: -6px;
+  padding: 36px 0 30px 0;
+  font-family: "Roboto Mono", monospace;
+
+  .fas {
+    color: $iconColor;
+    font-size: 4rem;
+  }
+
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: start;
+
+    margin: 0;
+  }
+
+  ul li {
+    display: flex;
+    align-items: center;
+  }
+
+  ul li span {
+    text-align: left;
+    text-align-last: left;
+    margin-left: 1rem;
+    width: 6rem;
+  }
+}

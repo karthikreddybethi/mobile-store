@@ -5,9 +5,5 @@ body {
   overflow-x: hidden;
   user-select: none;
 }
-input:focus,
-select:focus,
-textarea:focus,
-button:focus {
-  outline: none;
-}
+
+

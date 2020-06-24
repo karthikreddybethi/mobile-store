@@ -1,0 +1,132 @@
+$price-color: #f8600c;
+body {
+  box-sizing: border-box;
+}
+
+.product-specifications-conatainer {
+  width: 80%;
+  margin: auto;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+
+  @media (max-width: 720px) {
+    flex-direction: column;
+  }
+
+  .product-image {
+    flex: 1;
+    text-align: center;
+  }
+
+  .product-details {
+    flex: 1;
+    line-height: 1.5;
+
+    @media (max-width: 720px) {
+      text-align: center;
+    }
+
+    h2 {
+      margin-top: 2rem;
+      margin-bottom: 0;
+      color: $price-color;
+    }
+    p {
+      margin-top: 0;
+    }
+    button {
+      padding: 1rem 4rem 1rem 4rem;
+      border-radius: 2rem;
+      background-color: black;
+      color: white;
+      border: none;
+      font-size: 1.3rem;
+      margin-top: 1.5rem;
+      cursor: pointer;
+    }
+  }
+}
+
+.specifications-bar {
+  width: 90%;
+  margin: 2rem auto 0 auto;
+
+  .tab {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid rgba($color: #f3f5f6, $alpha: 1);
+    border-bottom: none;
+
+    h4 {
+      cursor: pointer;
+
+      @media (max-width: 500px) {
+        font-size: 0.8rem;
+      }
+
+      @media (max-width: 400px) {
+        font-size: 0.7rem;
+      }
+    }
+  }
+
+  .specifications {
+    position: relative;
+    margin: 0;
+
+    ul {
+      list-style: url(../images/icons8-checked-21.png);
+      width: 80%;
+      margin: auto;
+    }
+
+    li {
+      font-size: 20px;
+      letter-spacing: 1.2px;
+      padding: 0.4rem;
+
+      @media (max-width: 720px) {
+        font-size: 1.1rem;
+      }
+    }
+  }
+
+  .specifications-content {
+    transform: scale(0);
+  }
+
+  .specifications-content.current-tab {
+    transform: scale(1);
+    border: 2px solid #f3f5f6;
+    padding: 2rem;
+    // line-height: 2;
+  }
+
+  .package-content,
+  .video-review {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    transform: scale(0);
+    pointer-events: none;
+    // bottom: 0;
+  }
+  .package-content.current-tab {
+    left: 0;
+    border: 2px solid #f3f5f6;
+    transform: scale(1);
+    padding: 2rem;
+  }
+
+  .video-review.current-tab {
+    display: block;
+    border: 2px solid #f3f5f6;
+    text-align: center;
+    padding: 2rem;
+    transform: scale(1);
+    pointer-events: initial;
+  }
+}

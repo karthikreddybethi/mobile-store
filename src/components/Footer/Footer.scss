@@ -1,0 +1,54 @@
+%positioning {
+  width: 80%;
+  margin: auto;
+}
+
+.footer-wrapper {
+  width: 80%;
+  margin: 5rem auto;
+
+  a {
+    text-decoration: none;
+    color: #f8600c;
+  }
+
+  .footer-logo {
+    @extend %positioning;
+  }
+
+  .footer-details {
+    @extend %positioning;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+
+    @media (max-width: 720px) {
+      flex-direction: column;
+      width: 90%;
+      margin: auto;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      line-height: 1.5;
+    }
+
+    .payment-options-icons {
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(2, 1fr);
+      align-items: center;
+      justify-items: center;
+      gap: 0.5rem;
+    }
+
+    .contact {
+      span {
+        display: block;
+        font-weight: bold;
+      }
+    }
+  }
+}

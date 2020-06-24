@@ -1,0 +1,13 @@
+.app {
+  .phones-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 70%;
+    margin: auto;
+    gap: -1rem;
+
+    @media (max-width: 720px) {
+      grid-template-columns: 1fr;
+    }
+  }
+}

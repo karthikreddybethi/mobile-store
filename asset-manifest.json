@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/mobile-store/static/css/main.a64b644d.chunk.css",
+    "main.js": "/mobile-store/static/js/main.2d0cbd00.chunk.js",
+    "main.js.map": "/mobile-store/static/js/main.2d0cbd00.chunk.js.map",
+    "runtime-main.js": "/mobile-store/static/js/runtime-main.c9768f79.js",
+    "runtime-main.js.map": "/mobile-store/static/js/runtime-main.c9768f79.js.map",
+    "static/css/2.787549d6.chunk.css": "/mobile-store/static/css/2.787549d6.chunk.css",
+    "static/js/2.7485a475.chunk.js": "/mobile-store/static/js/2.7485a475.chunk.js",
+    "static/js/2.7485a475.chunk.js.map": "/mobile-store/static/js/2.7485a475.chunk.js.map",
+    "index.html": "/mobile-store/index.html",
+    "precache-manifest.945f81372d0d0676e6185fdbf0bb91f8.js": "/mobile-store/precache-manifest.945f81372d0d0676e6185fdbf0bb91f8.js",
+    "service-worker.js": "/mobile-store/service-worker.js",
+    "static/css/2.787549d6.chunk.css.map": "/mobile-store/static/css/2.787549d6.chunk.css.map",
+    "static/css/main.a64b644d.chunk.css.map": "/mobile-store/static/css/main.a64b644d.chunk.css.map",
+    "static/js/2.7485a475.chunk.js.LICENSE.txt": "/mobile-store/static/js/2.7485a475.chunk.js.LICENSE.txt",
+    "static/media/Ikona1.jpg": "/mobile-store/static/media/Ikona1.7ab18e81.jpg",
+    "static/media/apple-iphone-11-black.jpg": "/mobile-store/static/media/apple-iphone-11-black.8415c1bf.jpg",
+    "static/media/apple-iphone-11-pro-gold.jpg": "/mobile-store/static/media/apple-iphone-11-pro-gold.fd345725.jpg",
+    "static/media/apple-iphone-11-pro-silver.jpg": "/mobile-store/static/media/apple-iphone-11-pro-silver.38eed72a.jpg",
+    "static/media/apple-iphone-11-purple.jpg": "/mobile-store/static/media/apple-iphone-11-purple.d90b58b0.jpg",
+    "static/media/apple-iphone-midnight-green.jpg": "/mobile-store/static/media/apple-iphone-midnight-green.7b5b0937.jpg",
+    "static/media/apple-iphone-x-grey.jpg": "/mobile-store/static/media/apple-iphone-x-grey.d917d854.jpg",
+    "static/media/apple-iphone-xs-max-gold.jpg": "/mobile-store/static/media/apple-iphone-xs-max-gold.77ef097c.jpg",
+    "static/media/iPhone-SE.jpg": "/mobile-store/static/media/iPhone-SE.19c238e4.jpg",
+    "static/media/iPhone11.jpg": "/mobile-store/static/media/iPhone11.c6c37f3f.jpg",
+    "static/media/slick-theme.css": "/mobile-store/static/media/slick.f97e3bbf.svg",
+    "static/media/ItemsInCart.scss": "/mobile-store/static/media/undraw_empty_cart.75798c27.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9768f79.js",
+    "static/css/2.787549d6.chunk.css",
+    "static/js/2.7485a475.chunk.js",
+    "static/css/main.a64b644d.chunk.css",
+    "static/js/main.2d0cbd00.chunk.js"
+  ]
+}

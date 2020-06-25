@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mobile-store/static/css/main.a64b644d.chunk.css",
-    "main.js": "/mobile-store/static/js/main.66b4ac44.chunk.js",
-    "main.js.map": "/mobile-store/static/js/main.66b4ac44.chunk.js.map",
+    "main.css": "/mobile-store/static/css/main.2a58e361.chunk.css",
+    "main.js": "/mobile-store/static/js/main.8cb68e95.chunk.js",
+    "main.js.map": "/mobile-store/static/js/main.8cb68e95.chunk.js.map",
     "runtime-main.js": "/mobile-store/static/js/runtime-main.c9768f79.js",
     "runtime-main.js.map": "/mobile-store/static/js/runtime-main.c9768f79.js.map",
     "static/css/2.787549d6.chunk.css": "/mobile-store/static/css/2.787549d6.chunk.css",
     "static/js/2.504d5092.chunk.js": "/mobile-store/static/js/2.504d5092.chunk.js",
     "static/js/2.504d5092.chunk.js.map": "/mobile-store/static/js/2.504d5092.chunk.js.map",
     "index.html": "/mobile-store/index.html",
-    "precache-manifest.ddfa50a43afa8f1093ff3c18d8ede261.js": "/mobile-store/precache-manifest.ddfa50a43afa8f1093ff3c18d8ede261.js",
+    "precache-manifest.3f0006717ac9f74c53bad58b9dd88fa7.js": "/mobile-store/precache-manifest.3f0006717ac9f74c53bad58b9dd88fa7.js",
     "service-worker.js": "/mobile-store/service-worker.js",
     "static/css/2.787549d6.chunk.css.map": "/mobile-store/static/css/2.787549d6.chunk.css.map",
-    "static/css/main.a64b644d.chunk.css.map": "/mobile-store/static/css/main.a64b644d.chunk.css.map",
+    "static/css/main.2a58e361.chunk.css.map": "/mobile-store/static/css/main.2a58e361.chunk.css.map",
     "static/js/2.504d5092.chunk.js.LICENSE.txt": "/mobile-store/static/js/2.504d5092.chunk.js.LICENSE.txt",
     "static/media/Ikona1.jpg": "/mobile-store/static/media/Ikona1.7ab18e81.jpg",
     "static/media/apple-iphone-11-black.jpg": "/mobile-store/static/media/apple-iphone-11-black.8415c1bf.jpg",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.c9768f79.js",
     "static/css/2.787549d6.chunk.css",
     "static/js/2.504d5092.chunk.js",
-    "static/css/main.a64b644d.chunk.css",
-    "static/js/main.66b4ac44.chunk.js"
+    "static/css/main.2a58e361.chunk.css",
+    "static/js/main.8cb68e95.chunk.js"
   ]
 }

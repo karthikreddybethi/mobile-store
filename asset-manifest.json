@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mobile-store/static/css/main.30ea230c.chunk.css",
-    "main.js": "/mobile-store/static/js/main.8cb68e95.chunk.js",
-    "main.js.map": "/mobile-store/static/js/main.8cb68e95.chunk.js.map",
+    "main.js": "/mobile-store/static/js/main.020aa5c0.chunk.js",
+    "main.js.map": "/mobile-store/static/js/main.020aa5c0.chunk.js.map",
     "runtime-main.js": "/mobile-store/static/js/runtime-main.c9768f79.js",
     "runtime-main.js.map": "/mobile-store/static/js/runtime-main.c9768f79.js.map",
     "static/css/2.787549d6.chunk.css": "/mobile-store/static/css/2.787549d6.chunk.css",
     "static/js/2.504d5092.chunk.js": "/mobile-store/static/js/2.504d5092.chunk.js",
     "static/js/2.504d5092.chunk.js.map": "/mobile-store/static/js/2.504d5092.chunk.js.map",
     "index.html": "/mobile-store/index.html",
-    "precache-manifest.a2e0cc929fce1c60a52791f97dc742f6.js": "/mobile-store/precache-manifest.a2e0cc929fce1c60a52791f97dc742f6.js",
+    "precache-manifest.195abb05c1ece653f01d139ed5afec95.js": "/mobile-store/precache-manifest.195abb05c1ece653f01d139ed5afec95.js",
     "service-worker.js": "/mobile-store/service-worker.js",
     "static/css/2.787549d6.chunk.css.map": "/mobile-store/static/css/2.787549d6.chunk.css.map",
     "static/css/main.30ea230c.chunk.css.map": "/mobile-store/static/css/main.30ea230c.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.787549d6.chunk.css",
     "static/js/2.504d5092.chunk.js",
     "static/css/main.30ea230c.chunk.css",
-    "static/js/main.8cb68e95.chunk.js"
+    "static/js/main.020aa5c0.chunk.js"
   ]
 }

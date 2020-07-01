@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed2cb7babf4b38e9a70b3ebb56b6f5e3",
+    "revision": "0522d599ba220341d0bd73510e727a9e",
     "url": "/mobile-store/index.html"
   },
   {
-    "revision": "95f7bd8e593feadecdd6",
+    "revision": "19e334ad7f180bf647d1",
     "url": "/mobile-store/static/css/2.787549d6.chunk.css"
   },
   {
-    "revision": "41ee19fd024df99ec7c4",
-    "url": "/mobile-store/static/css/main.d88432cc.chunk.css"
+    "revision": "d9f260e89034c7fc09e4",
+    "url": "/mobile-store/static/css/main.5ab3a21a.chunk.css"
   },
   {
-    "revision": "95f7bd8e593feadecdd6",
-    "url": "/mobile-store/static/js/2.499aed67.chunk.js"
+    "revision": "19e334ad7f180bf647d1",
+    "url": "/mobile-store/static/js/2.26503f2f.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/mobile-store/static/js/2.499aed67.chunk.js.LICENSE.txt"
+    "url": "/mobile-store/static/js/2.26503f2f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41ee19fd024df99ec7c4",
-    "url": "/mobile-store/static/js/main.1afa05aa.chunk.js"
+    "revision": "d9f260e89034c7fc09e4",
+    "url": "/mobile-store/static/js/main.99f95e71.chunk.js"
   },
   {
     "revision": "b5d7427e9465207e7dc0",

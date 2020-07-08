@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/mobile-store/static/css/main.5ab3a21a.chunk.css",
-    "main.js": "/mobile-store/static/js/main.bec3acd6.chunk.js",
-    "main.js.map": "/mobile-store/static/js/main.bec3acd6.chunk.js.map",
+    "main.js": "/mobile-store/static/js/main.79cf72db.chunk.js",
+    "main.js.map": "/mobile-store/static/js/main.79cf72db.chunk.js.map",
     "runtime-main.js": "/mobile-store/static/js/runtime-main.c9768f79.js",
     "runtime-main.js.map": "/mobile-store/static/js/runtime-main.c9768f79.js.map",
     "static/css/2.787549d6.chunk.css": "/mobile-store/static/css/2.787549d6.chunk.css",
-    "static/js/2.26503f2f.chunk.js": "/mobile-store/static/js/2.26503f2f.chunk.js",
-    "static/js/2.26503f2f.chunk.js.map": "/mobile-store/static/js/2.26503f2f.chunk.js.map",
+    "static/js/2.59494db3.chunk.js": "/mobile-store/static/js/2.59494db3.chunk.js",
+    "static/js/2.59494db3.chunk.js.map": "/mobile-store/static/js/2.59494db3.chunk.js.map",
     "index.html": "/mobile-store/index.html",
-    "precache-manifest.2640270b68da9bdc5e11a4726829a8ce.js": "/mobile-store/precache-manifest.2640270b68da9bdc5e11a4726829a8ce.js",
+    "precache-manifest.334ea38f66e68ab8cd8b433399dd7028.js": "/mobile-store/precache-manifest.334ea38f66e68ab8cd8b433399dd7028.js",
     "service-worker.js": "/mobile-store/service-worker.js",
     "static/css/2.787549d6.chunk.css.map": "/mobile-store/static/css/2.787549d6.chunk.css.map",
     "static/css/main.5ab3a21a.chunk.css.map": "/mobile-store/static/css/main.5ab3a21a.chunk.css.map",
-    "static/js/2.26503f2f.chunk.js.LICENSE.txt": "/mobile-store/static/js/2.26503f2f.chunk.js.LICENSE.txt",
+    "static/js/2.59494db3.chunk.js.LICENSE.txt": "/mobile-store/static/js/2.59494db3.chunk.js.LICENSE.txt",
     "static/media/Ikona1.jpg": "/mobile-store/static/media/Ikona1.7ab18e81.jpg",
     "static/media/apple-iphone-11-black.jpg": "/mobile-store/static/media/apple-iphone-11-black.8415c1bf.jpg",
     "static/media/apple-iphone-11-pro-gold.jpg": "/mobile-store/static/media/apple-iphone-11-pro-gold.fd345725.jpg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.c9768f79.js",
     "static/css/2.787549d6.chunk.css",
-    "static/js/2.26503f2f.chunk.js",
+    "static/js/2.59494db3.chunk.js",
     "static/css/main.5ab3a21a.chunk.css",
-    "static/js/main.bec3acd6.chunk.js"
+    "static/js/main.79cf72db.chunk.js"
   ]
 }

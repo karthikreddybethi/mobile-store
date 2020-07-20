@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mobile-store/static/css/main.5ab3a21a.chunk.css",
-    "main.js": "/mobile-store/static/js/main.793fba21.chunk.js",
-    "main.js.map": "/mobile-store/static/js/main.793fba21.chunk.js.map",
+    "main.css": "/mobile-store/static/css/main.99065d06.chunk.css",
+    "main.js": "/mobile-store/static/js/main.cb3e8681.chunk.js",
+    "main.js.map": "/mobile-store/static/js/main.cb3e8681.chunk.js.map",
     "runtime-main.js": "/mobile-store/static/js/runtime-main.c9768f79.js",
     "runtime-main.js.map": "/mobile-store/static/js/runtime-main.c9768f79.js.map",
     "static/css/2.787549d6.chunk.css": "/mobile-store/static/css/2.787549d6.chunk.css",
-    "static/js/2.702d919e.chunk.js": "/mobile-store/static/js/2.702d919e.chunk.js",
-    "static/js/2.702d919e.chunk.js.map": "/mobile-store/static/js/2.702d919e.chunk.js.map",
+    "static/js/2.3ae74559.chunk.js": "/mobile-store/static/js/2.3ae74559.chunk.js",
+    "static/js/2.3ae74559.chunk.js.map": "/mobile-store/static/js/2.3ae74559.chunk.js.map",
     "index.html": "/mobile-store/index.html",
-    "precache-manifest.1d7cc71b51df6ea3533afaf16be08242.js": "/mobile-store/precache-manifest.1d7cc71b51df6ea3533afaf16be08242.js",
+    "precache-manifest.59fea4cdb8e7277235b6dd407aba6ce4.js": "/mobile-store/precache-manifest.59fea4cdb8e7277235b6dd407aba6ce4.js",
     "service-worker.js": "/mobile-store/service-worker.js",
     "static/css/2.787549d6.chunk.css.map": "/mobile-store/static/css/2.787549d6.chunk.css.map",
-    "static/css/main.5ab3a21a.chunk.css.map": "/mobile-store/static/css/main.5ab3a21a.chunk.css.map",
-    "static/js/2.702d919e.chunk.js.LICENSE.txt": "/mobile-store/static/js/2.702d919e.chunk.js.LICENSE.txt",
+    "static/css/main.99065d06.chunk.css.map": "/mobile-store/static/css/main.99065d06.chunk.css.map",
+    "static/js/2.3ae74559.chunk.js.LICENSE.txt": "/mobile-store/static/js/2.3ae74559.chunk.js.LICENSE.txt",
     "static/media/Ikona1.jpg": "/mobile-store/static/media/Ikona1.7ab18e81.jpg",
     "static/media/apple-iphone-11-black.jpg": "/mobile-store/static/media/apple-iphone-11-black.8415c1bf.jpg",
     "static/media/apple-iphone-11-pro-gold.jpg": "/mobile-store/static/media/apple-iphone-11-pro-gold.fd345725.jpg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.c9768f79.js",
     "static/css/2.787549d6.chunk.css",
-    "static/js/2.702d919e.chunk.js",
-    "static/css/main.5ab3a21a.chunk.css",
-    "static/js/main.793fba21.chunk.js"
+    "static/js/2.3ae74559.chunk.js",
+    "static/css/main.99065d06.chunk.css",
+    "static/js/main.cb3e8681.chunk.js"
   ]
 }
